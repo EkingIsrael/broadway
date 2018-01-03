@@ -41,3 +41,7 @@ p {
     color: white;
     background-color: dimgray;
 }
+
+.header {
+    background-image: url("./resources/images/the-flatiron-building.png");
+}
